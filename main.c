@@ -12,15 +12,12 @@ void limparBuffer() {
 int main() {
     srand(time(NULL));
     int i, quantidade;
-    char = palavra, letra;
-    char lista [6] = {
-        "pinguim", "dinossauro", "jaguatirica", "toupeira", "tamanduá", "porco", "camelo"
+    char palavra, letra;
+    char lista[6][20] = {
+        "pinguim", "dinossauro", "jaguatirica", "toupeira", "tamanduá", "porco"
     };
     
     
-
     
-    
-
     return 0;
 }
